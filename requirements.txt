@@ -1,0 +1,30 @@
+# Advanced File Organizer Dependencies
+# Core Python libraries (included with Python standard library)
+# tkinter - GUI framework (usually included with Python)
+# pathlib - Path handling (Python 3.4+)
+# threading - Multi-threading support
+# configparser - Configuration file handling
+# mimetypes - MIME type detection
+# shutil - File operations
+# json - JSON handling
+# datetime - Date/time operations
+# collections - Data structures
+# os, sys - System operations
+
+# Optional dependencies for enhanced functionality
+# Uncomment the following lines if you want additional features:
+
+# For file type detection based on content (not just extension)
+# python-magic==0.4.27
+
+# For advanced file watching capabilities
+# watchdog==3.0.0
+
+# For better date parsing from EXIF data in photos
+# Pillow==10.0.1
+
+# For GUI theme improvements
+# ttkthemes==3.2.2
+
+# Note: This file organizer is designed to work with Python's standard library
+# No additional packages are required for basic functionality 
